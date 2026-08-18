@@ -35,15 +35,6 @@ Topics I'm focusing on include:
 
 I'll be adding IT projects and labs here as I progress through school.
 
-### Upcoming Projects
-
-- [ ] Windows troubleshooting lab
-- [ ] Basic networking lab
-- [ ] Help desk troubleshooting scenarios
-- [ ] PowerShell basics
-- [ ] Cybersecurity fundamentals lab
-- [ ] Home network documentation
-
 ## 🎯 Career Goal
 
 My goal is to transition into an IT career where I can use my technical troubleshooting experience while continuing to develop my skills in networking, systems, and cybersecurity.
@@ -65,4 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->IT professional in training transitioning into the tech industry. Currently building skills in computer support, networking, Windows, cybersecurity, and troubleshooting. Bringing 20+ years of hands-on technical and problem-solving experience into a new career in IT.
+-->
